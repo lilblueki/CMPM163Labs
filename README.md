@@ -29,10 +29,10 @@ For the upper left cube, I applied a texture by using and building a fragment an
 For the upper right cube, I tiled a texture using fragment and vertor shaders. I first began by scaling the texture down to 1/4 of the overall area of the cubes faces, by dividing the UV by .5; and then I used UV Mapping to tile the texture. Since the UV (x,y) coordinates fall within the span of 0 to 1, in my fragment shader, I knew that I had to work with modules (looking at if there is a remainder value) to check the values and ensure that once the UV's x or y value reaches 1, it with loop back around to the next row of the cube until the x,y values would reach (1,1).
 
 a) What is a formula to get the x coordinate of the texture given a u value of the uv coordinate (a value between 0 and 1)?
-  - x = 
+  - x = u * 4
   
 b) What is a formula to get the y coordinate of the texture given a v value of the uv coordinate (a value between 0 and 1)?
-  - y =
+  - y = v * 4
   
 c)What color is sampled from the texture at the uv coordinate (0.375, 0.25)? (sample from the image based on the number your formula gives you i.e. (1, 0) (x, y) is blue)
-   - color
+   - grey
