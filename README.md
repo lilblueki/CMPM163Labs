@@ -1,14 +1,14 @@
 # CMPM163Labs
 CMPM 163 Labs - Mia Kennedy 
 
-Lab2
+# Lab2
 
 Three Cubes Video: https://drive.google.com/open?id=1Na5wOhAo7MWSQHrUjD-dSZOrLOZ1xfDP
 
 Three Objects Photo:
 ![](Screenshot%20(220).png)
 
-Lab3 
+# Lab3 
 
 Link to video: https://drive.google.com/open?id=1uPYX00Y-KTlW0NmfB9D-i9n_f8VLG7bv
 
