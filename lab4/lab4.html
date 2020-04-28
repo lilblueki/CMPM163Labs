@@ -59,21 +59,6 @@
                 scene.add(cube3);
                 cube3.position.x += 2;
 
-                texture = THREE.ImageUtils.loadTexture("159.jpg");
-                normMap = THREE.ImageUtils.loadTexture("157_norm.jpg");
-                material = new THREE.MeshPhongMaterial( { map: texture, normMap: normMap });
-                var cube4 = new THREE.Mesh(geometry, material);
-                scene.add(cube4);
-                cube4.position.y += 2;
-
-			// add the light
-                var light = new THREE.PointLight(0xffffff, 1, 1000);
-                light.position.set(10, 10, 10);
-                scene.add(light);
-
-                var x = -.3;
-
-
                 var geometry1, material1, geometry2, material2, mesh1, mesh2;
 
                 function addTextureShaderCube() {
@@ -87,14 +72,11 @@
                             uniforms: uniforms,
                             vertexShader: document.getElementById('vertexShader1').textContent,
                             fragmentShader: document.getElementById('fragmentShader1').textContent
-
-                            //fragmentShader: fshader,
-                            //vertexShader: vshader,
-                            //precision: "mediump"
                         });
 
                         mesh1 = new THREE.Mesh(geometry1, material1);
-                        mesh1.position.x = 2;
+                        mesh1.position.y = 2;
+                        mesh1.position.x = -2;
                         scene.add(mesh1);
 
                         uniforms = {
@@ -159,6 +141,13 @@
       		    });
 
             // end of error checker
+
+            // add the light
+            var light = new THREE.PointLight(0xffffff, 1, 1000);
+                light.position.set(10, 10, 10);
+                scene.add(light);
+
+                var x = -.3;
 
 			function animate() {
 				requestAnimationFrame(animate);
