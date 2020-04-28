@@ -1,7 +1,10 @@
 //display the uv coordinate in the red and green channels of gl_FragColor
 
+uniform sampler2D texture1;
+//uniform vec2 size;
 varying vec2 vUv;
 
 void main() {
-    gl_FragColor =  vec4(vUv.x, vUv.y, 0.0, 1.0); //rgba
+    gl_FragColor = texture2D(texture1, vUv);
 }
+
