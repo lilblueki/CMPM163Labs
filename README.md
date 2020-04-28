@@ -18,13 +18,13 @@ The cube closest to the right, I interpolated between pink and red following the
 The cube floating towards the bottom left corner is a cube with a purple base, and a orange specular highlight made with three.js phong material.
 The cube floating towards the top right corner is a cube with a navy blue base, and a yellow specular highlight made with three.js phong material.
 
-#Lab4
+# Lab4
 
 a) What is a formula to get the x coordinate of the texture given a u value of the uv coordinate (a value between 0 and 1)?
   - x = 
   
 b) What is a formula to get the y coordinate of the texture given a v value of the uv coordinate (a value between 0 and 1)?
-  
+  - y =
   
 c)What color is sampled from the texture at the uv coordinate (0.375, 0.25)? (sample from the image based on the number your formula gives you i.e. (1, 0) (x, y) is blue)
-   
+   - color
