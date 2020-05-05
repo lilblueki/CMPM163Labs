@@ -36,3 +36,13 @@ b) What is a formula to get the y coordinate of the texture given a v value of t
   
 c)What color is sampled from the texture at the uv coordinate (0.375, 0.25)? (sample from the image based on the number your formula gives you i.e. (1, 0) (x, y) is blue)
    - grey
+   
+# Lab5
+
+Link to Part2A static particle video: https://drive.google.com/open?id=1z16s5JrPkjjVn7J8DPrLN9qOf8hEwFBP
+
+Link to Part2B explosion particle video: 
+
+Link to Part2B custom particle video:
+
+Describe how you made your custom particle scene
