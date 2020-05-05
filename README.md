@@ -41,7 +41,7 @@ c)What color is sampled from the texture at the uv coordinate (0.375, 0.25)? (sa
 
 Link to Part2A static particle video: https://drive.google.com/open?id=1z16s5JrPkjjVn7J8DPrLN9qOf8hEwFBP
 
-Link to Part2B explosion particle video: 
+Link to Part2B explosion particle video: https://drive.google.com/open?id=1ppnMcnIIgMkTFHo0BBdOxeyqSH_gFkq5
 
 Link to Part2B custom particle video:
 
