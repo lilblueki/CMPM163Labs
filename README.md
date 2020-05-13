@@ -50,6 +50,7 @@ I did alot of reasearch on how to create a spiral animation with particles, and 
 # Lab6
 
 Screenshot of Texture with correct aspect ratio:
+
 ![](Screenshot%20(257).png)
 
 Link to my ShaderToy Project: https://www.shadertoy.com/view/3sSfzR
