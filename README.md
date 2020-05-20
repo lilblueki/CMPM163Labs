@@ -43,6 +43,17 @@ Link to Part2A static particle video: https://drive.google.com/open?id=1z16s5JrP
 
 Link to Part2B explosion particle video: https://drive.google.com/open?id=1ppnMcnIIgMkTFHo0BBdOxeyqSH_gFkq5
 
-Link to Part2B custom particle video:
+Link to Part2B custom particle video: https://drive.google.com/open?id=1IVQcS5Ie8YmZZHoUwI7O0QdqQabHlLB9
 
-Describe how you made your custom particle scene
+I did alot of reasearch on how to create a spiral animation with particles, and I found that I would have to develop a function where the amount of particles, the spacing between them, and their positions can be implemented repeatly. I first adjusted the Z value for my camera to 500, so it can be a good enough distance away to get the full spiral in the view (to really capture a galaxy kind of effect). Then I stuck to the amount of 1000 particles, and assigned a startSize variable that will control the amount of particles that will appear within the spiral. Then I created a spread variable that randomly selects a value between the span of -.7 and .7, which will control how spacing of the particles. The width variable controls the width of the spiral at certain points based on the startSize value at the moment and the spread; and the height variable controls how tall the spiral gets at certain points based on a random value choosen between my given values of -.8 and .8. I then messed around with the sin and cos equations with the width and heights, to get an aesthetic wave effect in the spiral; this selection of the code helped in positioning the particles within the spiral. Then lastly I adjusted the meshes x and y rotation values, the mesh's z positioning, and added code (provided in Part2A of the Lab) to allow the color of the particles to change over time.
+
+# Lab6
+-implemented Part2 of Lab6 in Shadertoy -
+
+Screenshot of Texture with correct aspect ratio:
+
+![](Screenshot%20(257).png)
+
+Link to my ShaderToy Project: https://www.shadertoy.com/view/3sSfzR
+
+Link to something cool I saw on ShaderToy: https://www.shadertoy.com/view/WtGXWm
