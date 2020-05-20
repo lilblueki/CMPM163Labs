@@ -57,3 +57,25 @@ Screenshot of Texture with correct aspect ratio:
 Link to my ShaderToy Project: https://www.shadertoy.com/view/3sSfzR
 
 Link to something cool I saw on ShaderToy: https://www.shadertoy.com/view/WtGXWm
+
+# Lab7
+ 
+-implemented Part 2 of Lab 7
+
+Screenshot of Terrain w/ Height Map as the Texture:
+
+![](Screenshot%20(263).png)
+
+Screenshot of Terrain w/ a Different Texture as the Texture:
+
+![](Screenshot%20(264).png)
+
+Video of wave plane (I thought we can change the colors - so mines is pink with purple and green lights)
+
+https://drive.google.com/open?id=1wtE3KSFD44XyfrJmSHH_Lx-d86Ojso3-
+
+Video of Mountain and Water Scenery
+
+https://drive.google.com/open?id=1Oh0CqnPXPzx1t-Ie_rUWRrxcXHHo2Vmf
+
+I wasn't able to talk to my partner about our projects because we completed the assignment at different times
