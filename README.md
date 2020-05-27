@@ -87,7 +87,9 @@ I wasn't able to talk to my partner about our projects because we completed the 
 City Inspiration: Manhattan Beach, CA
 
 ![](manhattan.jpg)
+
 ![](manhattan2.png)
+
 ![](manhattan3.png)
 
 Link to generated city:
