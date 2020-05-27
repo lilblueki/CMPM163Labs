@@ -79,3 +79,22 @@ Video of Mountain and Water Scenery
 https://drive.google.com/open?id=1Oh0CqnPXPzx1t-Ie_rUWRrxcXHHo2Vmf
 
 I wasn't able to talk to my partner about our projects because we completed the assignment at different times
+
+# Lab8
+
+- implemented Part 2 of Lab 8
+
+City Inspiration: Manhattan Beach, CA
+
+![](manhattan.jpg)
+![](Manhattan_Beach_CA.png)
+![](manhattan-beach-california.png)
+
+Link to generated city:
+
+https://drive.google.com/open?id=1JAmzacBMA5wrVUuMtLdy1QzQCuTF9Yp7
+
+I wanted to recreate a city thats coastal, and reminded me of home, so I chose to use Manhattan Beach, CA as inspiration. It has 3 different textures for its "ground" (being concrete for the streets, sand, and water) which I thought would be visually interesting to see modeled. And since many of the buildings in Manhattan are typically 2-3 stories and tightly packed next to eachother, I made sure to replicated that in the x distance for each building and the max/min height limits for the homes. There are hardly any wide streets, except the main street Highland, but there are slimmer streets that go vertically between some houses. So I developed a function that checks for every 5 column of houses so it can insert a slightly wider street than other dividers of the vertical streets. And then for extra flare I threw in a couple random palm trees between the houses, and added the Manhattan Beach Pier and a boat in the ocean. 
+
+My partner didn't finish the lab by the time I submitted.
+
