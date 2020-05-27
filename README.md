@@ -88,9 +88,9 @@ City Inspiration: Manhattan Beach, CA
 
 ![](manhattan.jpg)
 
-![](manhattan2.png)
+![](manhattan2.jpg)
 
-![](manhattan3.png)
+![](manhattan3.jpg)
 
 Link to generated city:
 
